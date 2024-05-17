@@ -1,8 +1,8 @@
 module github.com/seaweedfs/seaweedfs-csi-driver
 
-go 1.21
+go 1.22
 
-toolchain go1.21.5
+toolchain go1.22.3
 
 require (
 	github.com/container-storage-interface/spec v1.8.0
